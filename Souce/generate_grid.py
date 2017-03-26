@@ -36,3 +36,9 @@ while row < rows:
         column += 1
     print(line)
     row += 1
+if True:
+    print(1)
+elif True:
+    print(2)
+else:
+    print(3)
