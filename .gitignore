@@ -1,3 +1,5 @@
 # something no need to push
 *.xml
 *.iml
+
+.idea/
