@@ -1,4 +1,4 @@
-# 输入
+# input
 arr = []
 try:
     temp = "input"

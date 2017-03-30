@@ -9,5 +9,3 @@ i = 5
 while i > 0:
     print(random.choice(first) + random.choice(obj) + random.choice(verb) + random.choice(adv))
     i -= 1
-我们=29
-print(我们)
