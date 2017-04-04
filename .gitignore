@@ -1,7 +1,6 @@
 # something no need to push
 *.xml
 *.iml
-*.txt
 
 .idea/
 Source/__pycache__/
