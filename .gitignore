@@ -1,6 +1,9 @@
 # something no need to push
 *.xml
 *.iml
+*.project
 
 .idea/
 Source/__pycache__/
+*.pyc
+*.pydevproject
