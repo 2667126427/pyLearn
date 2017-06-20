@@ -13,11 +13,10 @@ def download(chap, pic, res):
     print(file_name + ' was done!')
 
 
-def __main__():
+def __main__(start, end):
     url = 'http://mhpic.zymkcdn.com/comic/D%2F%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%2F{0}%E8%AF%9D%2F{1}.jpg-dldl.middle'
     chap_url = 'http://www.douluodalu3.com/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E6%BC%AB%E7%94%BB/{0}.html'
-    end = 180
-    for chap in range(179, end + 1):
+    for chap in range(start, end + 1):
         res = requests.get(chap_url.format(chap), _header)
         for pic in range(1, 100):
             res = requests.get(url.format(str(chap).zfill(2), pic), _header)
@@ -28,4 +27,9 @@ def __main__():
                 download(chap, pic, res)
             else:
                 print(res.status_code)
-__main__()
+
+if __name__ == '__main__':
+    start = input("Enter the start: ")
+    end = input("Enter the end: ")
+
+    __main__(int(start), int(end))
