@@ -7,3 +7,4 @@
 Source/__pycache__/
 *.pyc
 *.pydevproject
+count.sh
