@@ -24,7 +24,7 @@ def get_details(url):
     _text = []
     for para in body.select('p'):
         _text.append(para.text.strip())
-    _text = '\r\n    '.join(_text)
+    _text = '\r\n'.join(_text)
     for illegal in illegals:
         _title = _title.replace(illegal, ' ')
     _text = _text.replace(u'\xa0', u'').replace(u'\u2022', '*')
