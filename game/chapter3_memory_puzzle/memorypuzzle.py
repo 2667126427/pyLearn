@@ -127,7 +127,8 @@ def getRandomSizedBoard():
 
     random.shuffle(icons)
     numIconsUsed = int(BOARD_WIDTH * BOARD_HEIGHT / 2)
-    icons = icons[:numIconsUsed]
+    icons = icons[:numIconsUsed] * 2
+    random.shuffle(icons)
 
     board = []
     for x in range(BOARD_WIDTH):
@@ -158,29 +159,25 @@ def getBoxAtPixel(x, y):
         for boxy in range(BOARD_HEIGHT):
             left, top = leftTopCoordsOfBox(boxx, boxy)
             boxRect = pygame.Rect(left, top, BOX_SIZE, BOX_SIZE)
-            if boxRect.collidedict(x, y):
-                return x, y
+            if boxRect.collidepoint(x, y):
+                return (boxx, boxy)
 
-    return None, None
+    return (None, None)
 
 
 def drawIcon(shape, color, boxx, boxy):
-    quarter = int(BOX_SIZE * 0.25)
-    half = int(BOX_SIZE * 0.5)
+    quarter = int(BOX_SIZE * 0.25) # syntactic sugar
+    half =    int(BOX_SIZE * 0.5)  # syntactic sugar
 
-    # get the position of pixel
-    left, top = leftTopCoordsOfBox(boxx, boxy)
-    # draw the shape
+    left, top = leftTopCoordsOfBox(boxx, boxy) # get pixel coords from board coords
+    # Draw the shapes
     if shape == DONUT:
         pygame.draw.circle(DISPLAY, color, (left + half, top + half), half - 5)
-        pygame.draw.circle(DISPLAY, color, (left + half, top + half), quarter - 5)
+        pygame.draw.circle(DISPLAY, BG_COLOR, (left + half, top + half), quarter - 5)
     elif shape == SQUARE:
         pygame.draw.rect(DISPLAY, color, (left + quarter, top + quarter, BOX_SIZE - half, BOX_SIZE - half))
-        pygame.draw.rect(DISPLAY, color, ((left + half, top), (left + BOX_SIZE - 1, top + half),
-                                          (left + half, top + BOX_SIZE - 1), (left, top + half)))
     elif shape == DIAMOND:
-        pygame.draw.pylogon(DISPLAY, color, ((left, top), (left + BOX_SIZE - 1, top),
-                                             (left + half, top + BOX_SIZE - 1), (left, top + half)))
+        pygame.draw.polygon(DISPLAY, color, ((left + half, top), (left + BOX_SIZE - 1, top + half), (left + half, top + BOX_SIZE - 1), (left, top + half)))
     elif shape == LINES:
         for i in range(0, BOX_SIZE, 4):
             pygame.draw.line(DISPLAY, color, (left, top + i), (left + i, top))
