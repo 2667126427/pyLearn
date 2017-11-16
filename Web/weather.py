@@ -23,11 +23,12 @@ def get_info():
 def parse_info(info):
     '''
     解析初天气的一些参数
-    :param info: 
+    :param info:
     :return: 一堆参数
     '''
     week = info.select('.week')[0].text
-    temp = info.select('.now')[0].text
+    now = info.select('.now')[0].text
+    temp = info.find('span').text
     shidu = info.select('.shidu')[0].find_all('b')
     shi = shidu[0].text
     wind = shidu[1].text
@@ -36,18 +37,19 @@ def parse_info(info):
     quality = air.find('h5').text
     PM = air.find('h6').text
     rise_down = air.find('span').text
-    return week, temp, shi, wind, light, quality, PM, rise_down
+    return week, now, temp, shi, wind, light, quality, PM, rise_down
 
 
 def print_infos(*infos):
     '''
     打印出得到的参数
-    :param infos: 
+    :param infos:
     :return: null
     '''
-    week, temp, shi, wind, light, quality, PM, rise_down = infos
-    print('日期：%s' % (week))
-    print('温度：%s' % (temp))
+    week, now, temp, shi, wind, light, quality, PM, rise_down = infos
+    print('日期：%s' % week)
+    print('温度：%s' % now)
+    print('天气：%s' % temp)
     print(shi)
     print(wind)
     print(light)
