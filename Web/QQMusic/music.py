@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup as Soup
-import key
-import config
 import get_url
 import urllib3
 
