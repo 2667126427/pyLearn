@@ -1,0 +1,3305 @@
+[
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "北京",
+		"fcitynameShi": "北京市",
+		"fcountryaqicode": 110000,
+		"fid": 1,
+		"fprovince": "北京"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "天津",
+		"fcitynameShi": "天津市",
+		"fcountryaqicode": 120000,
+		"fid": 2,
+		"fprovince": "天津"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "石家庄",
+		"fcitynameShi": "石家庄市",
+		"fcountryaqicode": 130100,
+		"fid": 3,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "唐山",
+		"fcitynameShi": "唐山市",
+		"fcountryaqicode": 130200,
+		"fid": 4,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "秦皇岛",
+		"fcitynameShi": "秦皇岛市",
+		"fcountryaqicode": 130300,
+		"fid": 5,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "邯郸",
+		"fcitynameShi": "邯郸市",
+		"fcountryaqicode": 130400,
+		"fid": 6,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "邢台",
+		"fcitynameShi": "邢台市",
+		"fcountryaqicode": 130500,
+		"fid": 7,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "保定",
+		"fcitynameShi": "保定市",
+		"fcountryaqicode": 130600,
+		"fid": 8,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "张家口",
+		"fcitynameShi": "张家口市",
+		"fcountryaqicode": 130700,
+		"fid": 9,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "承德",
+		"fcitynameShi": "承德市",
+		"fcountryaqicode": 130800,
+		"fid": 10,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "沧州",
+		"fcitynameShi": "沧州市",
+		"fcountryaqicode": 130900,
+		"fid": 11,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "廊坊",
+		"fcitynameShi": "廊坊市",
+		"fcountryaqicode": 131000,
+		"fid": 12,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀",
+		"fareaQun": "京津冀",
+		"fcityname": "衡水",
+		"fcitynameShi": "衡水市",
+		"fcountryaqicode": 131100,
+		"fid": 13,
+		"fprovince": "河北"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山西中北部城市群",
+		"fcityname": "太原",
+		"fcitynameShi": "太原市",
+		"fcountryaqicode": 140100,
+		"fid": 14,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山西中北部城市群",
+		"fcityname": "大同",
+		"fcitynameShi": "大同市",
+		"fcountryaqicode": 140200,
+		"fid": 15,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "阳泉",
+		"fcitynameShi": "阳泉市",
+		"fcountryaqicode": 140300,
+		"fid": 16,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "长治",
+		"fcitynameShi": "长治市",
+		"fcountryaqicode": 140400,
+		"fid": 17,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "晋城",
+		"fcitynameShi": "晋城市",
+		"fcountryaqicode": 140500,
+		"fid": 18,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山西中北部城市群",
+		"fcityname": "朔州",
+		"fcitynameShi": "朔州市",
+		"fcountryaqicode": 140600,
+		"fid": 19,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "晋中",
+		"fcitynameShi": "晋中市",
+		"fcountryaqicode": 140700,
+		"fid": 20,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "运城",
+		"fcitynameShi": "运城市",
+		"fcountryaqicode": 140800,
+		"fid": 21,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山西中北部城市群",
+		"fcityname": "忻州",
+		"fcitynameShi": "忻州市",
+		"fcountryaqicode": 140900,
+		"fid": 22,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "临汾",
+		"fcitynameShi": "临汾市",
+		"fcountryaqicode": 141000,
+		"fid": 23,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "吕梁",
+		"fcitynameShi": "吕梁市",
+		"fcountryaqicode": 141100,
+		"fid": 24,
+		"fprovince": "山西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "呼和浩特",
+		"fcitynameShi": "呼和浩特市",
+		"fcountryaqicode": 150100,
+		"fid": 25,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "包头",
+		"fcitynameShi": "包头市",
+		"fcountryaqicode": 150200,
+		"fid": 26,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "乌海",
+		"fcitynameShi": "乌海市",
+		"fcountryaqicode": 150300,
+		"fid": 27,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "赤峰",
+		"fcitynameShi": "赤峰市",
+		"fcountryaqicode": 150400,
+		"fid": 28,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "通辽",
+		"fcitynameShi": "通辽市",
+		"fcountryaqicode": 150500,
+		"fid": 29,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "鄂尔多斯",
+		"fcitynameShi": "鄂尔多斯市",
+		"fcountryaqicode": 150600,
+		"fid": 30,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "呼伦贝尔",
+		"fcitynameShi": "呼伦贝尔市",
+		"fcountryaqicode": 150700,
+		"fid": 31,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "巴彦淖尔",
+		"fcitynameShi": "巴彦淖尔市",
+		"fcountryaqicode": 150800,
+		"fid": 32,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "乌兰察布",
+		"fcitynameShi": "乌兰察布市",
+		"fcountryaqicode": 150900,
+		"fid": 33,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "兴安盟",
+		"fcitynameShi": "兴安盟",
+		"fcountryaqicode": 152200,
+		"fid": 34,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "锡林郭勒盟",
+		"fcitynameShi": "锡林郭勒盟",
+		"fcountryaqicode": 152500,
+		"fid": 35,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阿拉善盟",
+		"fcitynameShi": "阿拉善盟",
+		"fcountryaqicode": 152900,
+		"fid": 36,
+		"fprovince": "内蒙古"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "沈阳",
+		"fcitynameShi": "沈阳市",
+		"fcountryaqicode": 210100,
+		"fid": 37,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "大连",
+		"fcitynameShi": "大连市",
+		"fcountryaqicode": 210200,
+		"fid": 38,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "鞍山",
+		"fcitynameShi": "鞍山市",
+		"fcountryaqicode": 210300,
+		"fid": 39,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "抚顺",
+		"fcitynameShi": "抚顺市",
+		"fcountryaqicode": 210400,
+		"fid": 40,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "本溪",
+		"fcitynameShi": "本溪市",
+		"fcountryaqicode": 210500,
+		"fid": 41,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "丹东",
+		"fcitynameShi": "丹东市",
+		"fcountryaqicode": 210600,
+		"fid": 42,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "锦州",
+		"fcitynameShi": "锦州市",
+		"fcountryaqicode": 210700,
+		"fid": 43,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "营口",
+		"fcitynameShi": "营口市",
+		"fcountryaqicode": 210800,
+		"fid": 44,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阜新",
+		"fcitynameShi": "阜新市",
+		"fcountryaqicode": 210900,
+		"fid": 45,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "辽阳",
+		"fcitynameShi": "辽阳市",
+		"fcountryaqicode": 211000,
+		"fid": 46,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "盘锦",
+		"fcitynameShi": "盘锦市",
+		"fcountryaqicode": 211100,
+		"fid": 47,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "辽宁中部城市群",
+		"fcityname": "铁岭",
+		"fcitynameShi": "铁岭市",
+		"fcountryaqicode": 211200,
+		"fid": 48,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "朝阳",
+		"fcitynameShi": "朝阳市",
+		"fcountryaqicode": 211300,
+		"fid": 49,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "葫芦岛",
+		"fcitynameShi": "葫芦岛市",
+		"fcountryaqicode": 211400,
+		"fid": 50,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "长春",
+		"fcitynameShi": "长春市",
+		"fcountryaqicode": 220100,
+		"fid": 51,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "吉林",
+		"fcitynameShi": "吉林市",
+		"fcountryaqicode": 220200,
+		"fid": 52,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "四平",
+		"fcitynameShi": "四平市",
+		"fcountryaqicode": 220300,
+		"fid": 53,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "辽源",
+		"fcitynameShi": "辽源市",
+		"fcountryaqicode": 220400,
+		"fid": 54,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "通化",
+		"fcitynameShi": "通化市",
+		"fcountryaqicode": 220500,
+		"fid": 55,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "白山",
+		"fcitynameShi": "白山市",
+		"fcountryaqicode": 220600,
+		"fid": 56,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "松原",
+		"fcitynameShi": "松原市",
+		"fcountryaqicode": 220700,
+		"fid": 57,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "白城",
+		"fcitynameShi": "白城市",
+		"fcountryaqicode": 220800,
+		"fid": 58,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "延吉",
+		"fcitynameShi": "延边州",
+		"fcountryaqicode": 222400,
+		"fid": 59,
+		"fprovince": "吉林"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "哈尔滨",
+		"fcitynameShi": "哈尔滨市",
+		"fcountryaqicode": 230100,
+		"fid": 60,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "齐齐哈尔",
+		"fcitynameShi": "齐齐哈尔市",
+		"fcountryaqicode": 230200,
+		"fid": 61,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "鸡西",
+		"fcitynameShi": "鸡西市",
+		"fcountryaqicode": 230300,
+		"fid": 62,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "鹤岗",
+		"fcitynameShi": "鹤岗市",
+		"fcountryaqicode": 230400,
+		"fid": 63,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "双鸭山",
+		"fcitynameShi": "双鸭山市",
+		"fcountryaqicode": 230500,
+		"fid": 64,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "大庆",
+		"fcitynameShi": "大庆市",
+		"fcountryaqicode": 230600,
+		"fid": 65,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "伊春",
+		"fcitynameShi": "伊春市",
+		"fcountryaqicode": 230700,
+		"fid": 66,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "佳木斯",
+		"fcitynameShi": "佳木斯市",
+		"fcountryaqicode": 230800,
+		"fid": 67,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "七台河",
+		"fcitynameShi": "七台河市",
+		"fcountryaqicode": 230900,
+		"fid": 68,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "牡丹江",
+		"fcitynameShi": "牡丹江市",
+		"fcountryaqicode": 231000,
+		"fid": 69,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "黑河",
+		"fcitynameShi": "黑河市",
+		"fcountryaqicode": 231100,
+		"fid": 70,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "绥化",
+		"fcitynameShi": "绥化市",
+		"fcountryaqicode": 231200,
+		"fid": 71,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "大兴安岭",
+		"fcitynameShi": "大兴安岭地区",
+		"fcountryaqicode": 232700,
+		"fid": 72,
+		"fprovince": "黑龙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "上海",
+		"fcitynameShi": "上海市",
+		"fcountryaqicode": 310000,
+		"fid": 73,
+		"fprovince": "上海"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "南京",
+		"fcitynameShi": "南京市",
+		"fcountryaqicode": 320100,
+		"fid": 74,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "无锡",
+		"fcitynameShi": "无锡市",
+		"fcountryaqicode": 320200,
+		"fid": 75,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "徐州",
+		"fcitynameShi": "徐州市",
+		"fcountryaqicode": 320300,
+		"fid": 76,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "常州",
+		"fcitynameShi": "常州市",
+		"fcountryaqicode": 320400,
+		"fid": 77,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "苏州",
+		"fcitynameShi": "苏州市",
+		"fcountryaqicode": 320500,
+		"fid": 78,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "南通",
+		"fcitynameShi": "南通市",
+		"fcountryaqicode": 320600,
+		"fid": 79,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "连云港",
+		"fcitynameShi": "连云港市",
+		"fcountryaqicode": 320700,
+		"fid": 80,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "淮安",
+		"fcitynameShi": "淮安市",
+		"fcountryaqicode": 320800,
+		"fid": 81,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "盐城",
+		"fcitynameShi": "盐城市",
+		"fcountryaqicode": 320900,
+		"fid": 82,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "扬州",
+		"fcitynameShi": "扬州市",
+		"fcountryaqicode": 321000,
+		"fid": 83,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "镇江",
+		"fcitynameShi": "镇江市",
+		"fcountryaqicode": 321100,
+		"fid": 84,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "泰州",
+		"fcitynameShi": "泰州市",
+		"fcountryaqicode": 321200,
+		"fid": 85,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "宿迁",
+		"fcitynameShi": "宿迁市",
+		"fcountryaqicode": 321300,
+		"fid": 86,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "杭州",
+		"fcitynameShi": "杭州市",
+		"fcountryaqicode": 330100,
+		"fid": 87,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "宁波",
+		"fcitynameShi": "宁波市",
+		"fcountryaqicode": 330200,
+		"fid": 88,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "温州",
+		"fcitynameShi": "温州市",
+		"fcountryaqicode": 330300,
+		"fid": 89,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "嘉兴",
+		"fcitynameShi": "嘉兴市",
+		"fcountryaqicode": 330400,
+		"fid": 90,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "湖州",
+		"fcitynameShi": "湖州市",
+		"fcountryaqicode": 330500,
+		"fid": 91,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "绍兴",
+		"fcitynameShi": "绍兴市",
+		"fcountryaqicode": 330600,
+		"fid": 92,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "金华",
+		"fcitynameShi": "金华市",
+		"fcountryaqicode": 330700,
+		"fid": 93,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "衢州",
+		"fcitynameShi": "衢州市",
+		"fcountryaqicode": 330800,
+		"fid": 94,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "舟山",
+		"fcitynameShi": "舟山市",
+		"fcountryaqicode": 330900,
+		"fid": 95,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "台州",
+		"fcitynameShi": "台州市",
+		"fcountryaqicode": 331000,
+		"fid": 96,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "丽水",
+		"fcitynameShi": "丽水市",
+		"fcountryaqicode": 331100,
+		"fid": 97,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "合肥",
+		"fcitynameShi": "合肥市",
+		"fcountryaqicode": 340100,
+		"fid": 98,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "芜湖",
+		"fcitynameShi": "芜湖市",
+		"fcountryaqicode": 340200,
+		"fid": 99,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "蚌埠",
+		"fcitynameShi": "蚌埠市",
+		"fcountryaqicode": 340300,
+		"fid": 100,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "淮南",
+		"fcitynameShi": "淮南市",
+		"fcountryaqicode": 340400,
+		"fid": 101,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "马鞍山",
+		"fcitynameShi": "马鞍山市",
+		"fcountryaqicode": 340500,
+		"fid": 102,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "淮北",
+		"fcitynameShi": "淮北市",
+		"fcountryaqicode": 340600,
+		"fid": 103,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "铜陵",
+		"fcitynameShi": "铜陵市",
+		"fcountryaqicode": 340700,
+		"fid": 104,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "安庆",
+		"fcitynameShi": "安庆市",
+		"fcountryaqicode": 340800,
+		"fid": 105,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "黄山",
+		"fcitynameShi": "黄山市",
+		"fcountryaqicode": 341000,
+		"fid": 106,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "滁州",
+		"fcitynameShi": "滁州市",
+		"fcountryaqicode": 341100,
+		"fid": 107,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阜阳",
+		"fcitynameShi": "阜阳市",
+		"fcountryaqicode": 341200,
+		"fid": 108,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "宿州",
+		"fcitynameShi": "宿州市",
+		"fcountryaqicode": 341300,
+		"fid": 109,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "六安",
+		"fcitynameShi": "六安市",
+		"fcountryaqicode": 341500,
+		"fid": 110,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "亳州",
+		"fcitynameShi": "亳州市",
+		"fcountryaqicode": 341600,
+		"fid": 111,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "池州",
+		"fcitynameShi": "池州市",
+		"fcountryaqicode": 341700,
+		"fid": 112,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "宣城",
+		"fcitynameShi": "宣城市",
+		"fcountryaqicode": 341800,
+		"fid": 113,
+		"fprovince": "安徽"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "福州",
+		"fcitynameShi": "福州市",
+		"fcountryaqicode": 350100,
+		"fid": 114,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "厦门",
+		"fcitynameShi": "厦门市",
+		"fcountryaqicode": 350200,
+		"fid": 115,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "莆田",
+		"fcitynameShi": "莆田市",
+		"fcountryaqicode": 350300,
+		"fid": 116,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "三明",
+		"fcitynameShi": "三明市",
+		"fcountryaqicode": 350400,
+		"fid": 117,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "泉州",
+		"fcitynameShi": "泉州市",
+		"fcountryaqicode": 350500,
+		"fid": 118,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "漳州",
+		"fcitynameShi": "漳州市",
+		"fcountryaqicode": 350600,
+		"fid": 119,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "南平",
+		"fcitynameShi": "南平市",
+		"fcountryaqicode": 350700,
+		"fid": 120,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "龙岩",
+		"fcitynameShi": "龙岩市",
+		"fcountryaqicode": 350800,
+		"fid": 121,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "海峡西岸城市群",
+		"fcityname": "宁德",
+		"fcitynameShi": "宁德市",
+		"fcountryaqicode": 350900,
+		"fid": 122,
+		"fprovince": "福建"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "南昌",
+		"fcitynameShi": "南昌市",
+		"fcountryaqicode": 360100,
+		"fid": 123,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "景德镇",
+		"fcitynameShi": "景德镇市",
+		"fcountryaqicode": 360200,
+		"fid": 124,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "萍乡",
+		"fcitynameShi": "萍乡市",
+		"fcountryaqicode": 360300,
+		"fid": 125,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "九江",
+		"fcitynameShi": "九江市",
+		"fcountryaqicode": 360400,
+		"fid": 126,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "新余",
+		"fcitynameShi": "新余市",
+		"fcountryaqicode": 360500,
+		"fid": 127,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "鹰潭",
+		"fcitynameShi": "鹰潭市",
+		"fcountryaqicode": 360600,
+		"fid": 128,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "赣州",
+		"fcitynameShi": "赣州市",
+		"fcountryaqicode": 360700,
+		"fid": 129,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "宜春",
+		"fcitynameShi": "宜春市",
+		"fcountryaqicode": 360900,
+		"fid": 130,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "上饶",
+		"fcitynameShi": "上饶市",
+		"fcountryaqicode": 361100,
+		"fid": 131,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "吉安",
+		"fcitynameShi": "吉安市",
+		"fcountryaqicode": 360800,
+		"fid": 132,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "抚州",
+		"fcitynameShi": "抚州市",
+		"fcountryaqicode": 361000,
+		"fid": 133,
+		"fprovince": "江西"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "济南",
+		"fcitynameShi": "济南市",
+		"fcountryaqicode": 370100,
+		"fid": 134,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "青岛",
+		"fcitynameShi": "青岛市",
+		"fcountryaqicode": 370200,
+		"fid": 135,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "淄博",
+		"fcitynameShi": "淄博市",
+		"fcountryaqicode": 370300,
+		"fid": 136,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "枣庄",
+		"fcitynameShi": "枣庄市",
+		"fcountryaqicode": 370400,
+		"fid": 137,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "东营",
+		"fcitynameShi": "东营市",
+		"fcountryaqicode": 370500,
+		"fid": 138,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "烟台",
+		"fcitynameShi": "烟台市",
+		"fcountryaqicode": 370600,
+		"fid": 139,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "潍坊",
+		"fcitynameShi": "潍坊市",
+		"fcountryaqicode": 370700,
+		"fid": 140,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "济宁",
+		"fcitynameShi": "济宁市",
+		"fcountryaqicode": 370800,
+		"fid": 141,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "泰安",
+		"fcitynameShi": "泰安市",
+		"fcountryaqicode": 370900,
+		"fid": 142,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "威海",
+		"fcitynameShi": "威海市",
+		"fcountryaqicode": 371000,
+		"fid": 143,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "日照",
+		"fcitynameShi": "日照市",
+		"fcountryaqicode": 371100,
+		"fid": 144,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "莱芜",
+		"fcitynameShi": "莱芜市",
+		"fcountryaqicode": 371200,
+		"fid": 145,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "临沂",
+		"fcitynameShi": "临沂市",
+		"fcountryaqicode": 371300,
+		"fid": 146,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "德州",
+		"fcitynameShi": "德州市",
+		"fcountryaqicode": 371400,
+		"fid": 147,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "聊城",
+		"fcitynameShi": "聊城市",
+		"fcountryaqicode": 371500,
+		"fid": 148,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "滨州",
+		"fcitynameShi": "滨州市",
+		"fcountryaqicode": 371600,
+		"fid": 149,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "菏泽",
+		"fcitynameShi": "菏泽市",
+		"fcountryaqicode": 371700,
+		"fid": 150,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "郑州",
+		"fcitynameShi": "郑州市",
+		"fcountryaqicode": 410100,
+		"fid": 151,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "开封",
+		"fcitynameShi": "开封市",
+		"fcountryaqicode": 410200,
+		"fid": 152,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "洛阳",
+		"fcitynameShi": "洛阳市",
+		"fcountryaqicode": 410300,
+		"fid": 153,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "平顶山",
+		"fcitynameShi": "平顶山市",
+		"fcountryaqicode": 410400,
+		"fid": 154,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "安阳",
+		"fcitynameShi": "安阳市",
+		"fcountryaqicode": 410500,
+		"fid": 155,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "鹤壁",
+		"fcitynameShi": "鹤壁市",
+		"fcountryaqicode": 410600,
+		"fid": 156,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "新乡",
+		"fcitynameShi": "新乡市",
+		"fcountryaqicode": 410700,
+		"fid": 157,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "焦作",
+		"fcitynameShi": "焦作市",
+		"fcountryaqicode": 410800,
+		"fid": 158,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "濮阳",
+		"fcitynameShi": "濮阳市",
+		"fcountryaqicode": 410900,
+		"fid": 159,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "许昌",
+		"fcitynameShi": "许昌市",
+		"fcountryaqicode": 411000,
+		"fid": 160,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "漯河",
+		"fcitynameShi": "漯河市",
+		"fcountryaqicode": 411100,
+		"fid": 161,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "三门峡",
+		"fcitynameShi": "三门峡市",
+		"fcountryaqicode": 411200,
+		"fid": 162,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "南阳",
+		"fcitynameShi": "南阳市",
+		"fcountryaqicode": 411300,
+		"fid": 163,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "商丘",
+		"fcitynameShi": "商丘市",
+		"fcountryaqicode": 411400,
+		"fid": 164,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "信阳",
+		"fcitynameShi": "信阳市",
+		"fcountryaqicode": 411500,
+		"fid": 165,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "周口",
+		"fcitynameShi": "周口市",
+		"fcountryaqicode": 411600,
+		"fid": 166,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "",
+		"fcityname": "驻马店",
+		"fcitynameShi": "驻马店市",
+		"fcountryaqicode": 411700,
+		"fid": 167,
+		"fprovince": "河南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "武汉",
+		"fcitynameShi": "武汉市",
+		"fcountryaqicode": 420100,
+		"fid": 168,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "黄石",
+		"fcitynameShi": "黄石市",
+		"fcountryaqicode": 420200,
+		"fid": 169,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "十堰",
+		"fcitynameShi": "十堰市",
+		"fcountryaqicode": 420300,
+		"fid": 170,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "宜昌",
+		"fcitynameShi": "宜昌市",
+		"fcountryaqicode": 420500,
+		"fid": 171,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "襄阳",
+		"fcitynameShi": "襄阳市",
+		"fcountryaqicode": 420600,
+		"fid": 172,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "鄂州",
+		"fcitynameShi": "鄂州市",
+		"fcountryaqicode": 420700,
+		"fid": 173,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "荆门",
+		"fcitynameShi": "荆门市",
+		"fcountryaqicode": 420800,
+		"fid": 174,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "孝感",
+		"fcitynameShi": "孝感市",
+		"fcountryaqicode": 420900,
+		"fid": 175,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "荆州",
+		"fcitynameShi": "荆州市",
+		"fcountryaqicode": 421000,
+		"fid": 176,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "黄冈",
+		"fcitynameShi": "黄冈市",
+		"fcountryaqicode": 421100,
+		"fid": 177,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "武汉及周边城市群",
+		"fcityname": "咸宁",
+		"fcitynameShi": "咸宁市",
+		"fcountryaqicode": 421200,
+		"fid": 178,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "随州",
+		"fcitynameShi": "随州市",
+		"fcountryaqicode": 421300,
+		"fid": 179,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "恩施",
+		"fcitynameShi": "恩施州",
+		"fcountryaqicode": 422800,
+		"fid": 180,
+		"fprovince": "湖北"
+	},
+	{
+		"farea": "",
+		"fareaQun": "长株潭城市群",
+		"fcityname": "长沙",
+		"fcitynameShi": "长沙市",
+		"fcountryaqicode": 430100,
+		"fid": 181,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "长株潭城市群",
+		"fcityname": "株洲",
+		"fcitynameShi": "株洲市",
+		"fcountryaqicode": 430200,
+		"fid": 182,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "长株潭城市群",
+		"fcityname": "湘潭",
+		"fcitynameShi": "湘潭市",
+		"fcountryaqicode": 430300,
+		"fid": 183,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "衡阳",
+		"fcitynameShi": "衡阳市",
+		"fcountryaqicode": 430400,
+		"fid": 184,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "邵阳",
+		"fcitynameShi": "邵阳市",
+		"fcountryaqicode": 430500,
+		"fid": 185,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "岳阳",
+		"fcitynameShi": "岳阳市",
+		"fcountryaqicode": 430600,
+		"fid": 186,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "常德",
+		"fcitynameShi": "常德市",
+		"fcountryaqicode": 430700,
+		"fid": 187,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "张家界",
+		"fcitynameShi": "张家界市",
+		"fcountryaqicode": 430800,
+		"fid": 188,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "益阳",
+		"fcitynameShi": "益阳市",
+		"fcountryaqicode": 430900,
+		"fid": 189,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "郴州",
+		"fcitynameShi": "郴州市",
+		"fcountryaqicode": 431000,
+		"fid": 190,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "永州",
+		"fcitynameShi": "永州市",
+		"fcountryaqicode": 431100,
+		"fid": 191,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "怀化",
+		"fcitynameShi": "怀化市",
+		"fcountryaqicode": 431200,
+		"fid": 192,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "娄底",
+		"fcitynameShi": "娄底市",
+		"fcountryaqicode": 431300,
+		"fid": 193,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "湘西",
+		"fcitynameShi": "湘西州",
+		"fcountryaqicode": 433100,
+		"fid": 194,
+		"fprovince": "湖南"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "广州",
+		"fcitynameShi": "广州市",
+		"fcountryaqicode": 440100,
+		"fid": 195,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "韶关",
+		"fcitynameShi": "韶关市",
+		"fcountryaqicode": 440200,
+		"fid": 196,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "深圳",
+		"fcitynameShi": "深圳市",
+		"fcountryaqicode": 440300,
+		"fid": 197,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "珠海",
+		"fcitynameShi": "珠海市",
+		"fcountryaqicode": 440400,
+		"fid": 198,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "汕头",
+		"fcitynameShi": "汕头市",
+		"fcountryaqicode": 440500,
+		"fid": 199,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "佛山",
+		"fcitynameShi": "佛山市",
+		"fcountryaqicode": 440600,
+		"fid": 200,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "江门",
+		"fcitynameShi": "江门市",
+		"fcountryaqicode": 440700,
+		"fid": 201,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "湛江",
+		"fcitynameShi": "湛江市",
+		"fcountryaqicode": 440800,
+		"fid": 202,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "茂名",
+		"fcitynameShi": "茂名市",
+		"fcountryaqicode": 440900,
+		"fid": 203,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "肇庆",
+		"fcitynameShi": "肇庆市",
+		"fcountryaqicode": 441200,
+		"fid": 204,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "惠州",
+		"fcitynameShi": "惠州市",
+		"fcountryaqicode": 441300,
+		"fid": 205,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "梅州",
+		"fcitynameShi": "梅州市",
+		"fcountryaqicode": 441400,
+		"fid": 206,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "汕尾",
+		"fcitynameShi": "汕尾市",
+		"fcountryaqicode": 441500,
+		"fid": 207,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "河源",
+		"fcitynameShi": "河源市",
+		"fcountryaqicode": 441600,
+		"fid": 208,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阳江",
+		"fcitynameShi": "阳江市",
+		"fcountryaqicode": 441700,
+		"fid": 209,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "清远",
+		"fcitynameShi": "清远市",
+		"fcountryaqicode": 441800,
+		"fid": 210,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "东莞",
+		"fcitynameShi": "东莞市",
+		"fcountryaqicode": 441900,
+		"fid": 211,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "珠三角",
+		"fareaQun": "珠三角",
+		"fcityname": "中山",
+		"fcitynameShi": "中山市",
+		"fcountryaqicode": 442000,
+		"fid": 212,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "潮州",
+		"fcitynameShi": "潮州市",
+		"fcountryaqicode": 445100,
+		"fid": 213,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "揭阳",
+		"fcitynameShi": "揭阳市",
+		"fcountryaqicode": 445200,
+		"fid": 214,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "云浮",
+		"fcitynameShi": "云浮市",
+		"fcountryaqicode": 445300,
+		"fid": 215,
+		"fprovince": "广东"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "南宁",
+		"fcitynameShi": "南宁市",
+		"fcountryaqicode": 450100,
+		"fid": 216,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "柳州",
+		"fcitynameShi": "柳州市",
+		"fcountryaqicode": 450200,
+		"fid": 217,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "桂林",
+		"fcitynameShi": "桂林市",
+		"fcountryaqicode": 450300,
+		"fid": 218,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "梧州",
+		"fcitynameShi": "梧州市",
+		"fcountryaqicode": 450400,
+		"fid": 219,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "北海",
+		"fcitynameShi": "北海市",
+		"fcountryaqicode": 450500,
+		"fid": 220,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "防城港",
+		"fcitynameShi": "防城港市",
+		"fcountryaqicode": 450600,
+		"fid": 221,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "钦州",
+		"fcitynameShi": "钦州市",
+		"fcountryaqicode": 450700,
+		"fid": 222,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "贵港",
+		"fcitynameShi": "贵港市",
+		"fcountryaqicode": 450800,
+		"fid": 223,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "玉林",
+		"fcitynameShi": "玉林市",
+		"fcountryaqicode": 450900,
+		"fid": 224,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "百色",
+		"fcitynameShi": "百色市",
+		"fcountryaqicode": 451000,
+		"fid": 225,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "贺州",
+		"fcitynameShi": "贺州市",
+		"fcountryaqicode": 451100,
+		"fid": 226,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "河池",
+		"fcitynameShi": "河池市",
+		"fcountryaqicode": 451200,
+		"fid": 227,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "来宾",
+		"fcitynameShi": "来宾市",
+		"fcountryaqicode": 451300,
+		"fid": 228,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "崇左",
+		"fcitynameShi": "崇左市",
+		"fcountryaqicode": 451400,
+		"fid": 229,
+		"fprovince": "广西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "海口",
+		"fcitynameShi": "海口市",
+		"fcountryaqicode": 460100,
+		"fid": 230,
+		"fprovince": "海南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "三亚",
+		"fcitynameShi": "三亚市",
+		"fcountryaqicode": 460200,
+		"fid": 231,
+		"fprovince": "海南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "重庆",
+		"fcitynameShi": "重庆市",
+		"fcountryaqicode": 500000,
+		"fid": 232,
+		"fprovince": "重庆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "成都",
+		"fcitynameShi": "成都市",
+		"fcountryaqicode": 510100,
+		"fid": 233,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "自贡",
+		"fcitynameShi": "自贡市",
+		"fcountryaqicode": 510300,
+		"fid": 234,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "攀枝花",
+		"fcitynameShi": "攀枝花市",
+		"fcountryaqicode": 510400,
+		"fid": 235,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "泸州",
+		"fcitynameShi": "泸州市",
+		"fcountryaqicode": 510500,
+		"fid": 236,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "德阳",
+		"fcitynameShi": "德阳市",
+		"fcountryaqicode": 510600,
+		"fid": 237,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "绵阳",
+		"fcitynameShi": "绵阳市",
+		"fcountryaqicode": 510700,
+		"fid": 238,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "广元",
+		"fcitynameShi": "广元市",
+		"fcountryaqicode": 510800,
+		"fid": 239,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "遂宁",
+		"fcitynameShi": "遂宁市",
+		"fcountryaqicode": 510900,
+		"fid": 240,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "内江",
+		"fcitynameShi": "内江市",
+		"fcountryaqicode": 511000,
+		"fid": 241,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "乐山",
+		"fcitynameShi": "乐山市",
+		"fcountryaqicode": 511100,
+		"fid": 242,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "南充",
+		"fcitynameShi": "南充市",
+		"fcountryaqicode": 511300,
+		"fid": 243,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "眉山",
+		"fcitynameShi": "眉山市",
+		"fcountryaqicode": 511400,
+		"fid": 244,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "宜宾",
+		"fcitynameShi": "宜宾市",
+		"fcountryaqicode": 511500,
+		"fid": 245,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "广安",
+		"fcitynameShi": "广安市",
+		"fcountryaqicode": 511600,
+		"fid": 246,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "达州",
+		"fcitynameShi": "达州市",
+		"fcountryaqicode": 511700,
+		"fid": 247,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "雅安",
+		"fcitynameShi": "雅安市",
+		"fcountryaqicode": 511800,
+		"fid": 248,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "巴中",
+		"fcitynameShi": "巴中市",
+		"fcountryaqicode": 511900,
+		"fid": 249,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "成渝城市群",
+		"fcityname": "资阳",
+		"fcitynameShi": "资阳市",
+		"fcountryaqicode": 512000,
+		"fid": 250,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "马尔康",
+		"fcitynameShi": "阿坝州",
+		"fcountryaqicode": 513200,
+		"fid": 251,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "康定",
+		"fcitynameShi": "甘孜州",
+		"fcountryaqicode": 513300,
+		"fid": 252,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "西昌",
+		"fcitynameShi": "凉山州",
+		"fcountryaqicode": 513400,
+		"fid": 253,
+		"fprovince": "四川"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "贵阳",
+		"fcitynameShi": "贵阳市",
+		"fcountryaqicode": 520100,
+		"fid": 254,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "六盘水",
+		"fcitynameShi": "六盘水市",
+		"fcountryaqicode": 520200,
+		"fid": 255,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "遵义",
+		"fcitynameShi": "遵义市",
+		"fcountryaqicode": 520300,
+		"fid": 256,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "安顺",
+		"fcitynameShi": "安顺市",
+		"fcountryaqicode": 520400,
+		"fid": 257,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "铜仁",
+		"fcitynameShi": "铜仁地区",
+		"fcountryaqicode": 522200,
+		"fid": 258,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "黔西南",
+		"fcitynameShi": "黔西南州",
+		"fcountryaqicode": 522300,
+		"fid": 259,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "毕节",
+		"fcitynameShi": "毕节市",
+		"fcountryaqicode": 522400,
+		"fid": 260,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "凯里",
+		"fcitynameShi": "黔东南州",
+		"fcountryaqicode": 522600,
+		"fid": 261,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "都匀",
+		"fcitynameShi": "黔南州",
+		"fcountryaqicode": 522700,
+		"fid": 262,
+		"fprovince": "贵州"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "昆明",
+		"fcitynameShi": "昆明市",
+		"fcountryaqicode": 530100,
+		"fid": 263,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "曲靖",
+		"fcitynameShi": "曲靖市",
+		"fcountryaqicode": 530300,
+		"fid": 264,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "玉溪",
+		"fcitynameShi": "玉溪市",
+		"fcountryaqicode": 530400,
+		"fid": 265,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "保山",
+		"fcitynameShi": "保山市",
+		"fcountryaqicode": 530500,
+		"fid": 266,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "昭通",
+		"fcitynameShi": "昭通市",
+		"fcountryaqicode": 530600,
+		"fid": 267,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "丽江",
+		"fcitynameShi": "丽江市",
+		"fcountryaqicode": 530700,
+		"fid": 268,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "普洱",
+		"fcitynameShi": "普洱市",
+		"fcountryaqicode": 530800,
+		"fid": 269,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "临沧",
+		"fcitynameShi": "临沧市",
+		"fcountryaqicode": 530900,
+		"fid": 270,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "楚雄",
+		"fcitynameShi": "楚雄州",
+		"fcountryaqicode": 532301,
+		"fid": 271,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "蒙自",
+		"fcitynameShi": "红河州",
+		"fcountryaqicode": 532522,
+		"fid": 272,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "文山",
+		"fcitynameShi": "文山州",
+		"fcountryaqicode": 532621,
+		"fid": 273,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "景洪",
+		"fcitynameShi": "西双版纳州",
+		"fcountryaqicode": 532801,
+		"fid": 274,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "大理",
+		"fcitynameShi": "大理州",
+		"fcountryaqicode": 532901,
+		"fid": 275,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "潞西",
+		"fcitynameShi": "德宏州",
+		"fcountryaqicode": 533103,
+		"fid": 276,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "六库",
+		"fcitynameShi": "怒江州",
+		"fcountryaqicode": 533321,
+		"fid": 277,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "香格里拉",
+		"fcitynameShi": "迪庆州",
+		"fcountryaqicode": 533421,
+		"fid": 278,
+		"fprovince": "云南"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "拉萨",
+		"fcitynameShi": "拉萨市",
+		"fcountryaqicode": 540100,
+		"fid": 279,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "昌都",
+		"fcitynameShi": "昌都市",
+		"fcountryaqicode": 542100,
+		"fid": 280,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "山南",
+		"fcitynameShi": "山南市",
+		"fcountryaqicode": 542200,
+		"fid": 281,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "日喀则",
+		"fcitynameShi": "日喀则市",
+		"fcountryaqicode": 542300,
+		"fid": 282,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "那曲",
+		"fcitynameShi": "那曲地区",
+		"fcountryaqicode": 542400,
+		"fid": 283,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阿里",
+		"fcitynameShi": "阿里地区",
+		"fcountryaqicode": 542500,
+		"fid": 284,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "林芝",
+		"fcitynameShi": "林芝市",
+		"fcountryaqicode": 542600,
+		"fid": 285,
+		"fprovince": "西藏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "陕西关中城市群",
+		"fcityname": "西安",
+		"fcitynameShi": "西安市",
+		"fcountryaqicode": 610100,
+		"fid": 286,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "陕西关中城市群",
+		"fcityname": "铜川",
+		"fcitynameShi": "铜川市",
+		"fcountryaqicode": 610200,
+		"fid": 287,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "陕西关中城市群",
+		"fcityname": "宝鸡",
+		"fcitynameShi": "宝鸡市",
+		"fcountryaqicode": 610300,
+		"fid": 288,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "陕西关中城市群",
+		"fcityname": "咸阳",
+		"fcitynameShi": "咸阳市",
+		"fcountryaqicode": 610400,
+		"fid": 289,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "陕西关中城市群",
+		"fcityname": "渭南",
+		"fcitynameShi": "渭南市",
+		"fcountryaqicode": 610500,
+		"fid": 290,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "延安",
+		"fcitynameShi": "延安市",
+		"fcountryaqicode": 610600,
+		"fid": 291,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "汉中",
+		"fcitynameShi": "汉中市",
+		"fcountryaqicode": 610700,
+		"fid": 292,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "榆林",
+		"fcitynameShi": "榆林市",
+		"fcountryaqicode": 610800,
+		"fid": 293,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "安康",
+		"fcitynameShi": "安康市",
+		"fcountryaqicode": 610900,
+		"fid": 294,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "商洛",
+		"fcitynameShi": "商洛市",
+		"fcountryaqicode": 611000,
+		"fid": 295,
+		"fprovince": "陕西"
+	},
+	{
+		"farea": "",
+		"fareaQun": "甘宁城市群",
+		"fcityname": "兰州",
+		"fcitynameShi": "兰州市",
+		"fcountryaqicode": 620100,
+		"fid": 296,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "嘉峪关",
+		"fcitynameShi": "嘉峪关市",
+		"fcountryaqicode": 620200,
+		"fid": 297,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "金昌",
+		"fcitynameShi": "金昌市",
+		"fcountryaqicode": 620300,
+		"fid": 298,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "甘宁城市群",
+		"fcityname": "白银",
+		"fcitynameShi": "白银市",
+		"fcountryaqicode": 620400,
+		"fid": 299,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "天水",
+		"fcitynameShi": "天水市",
+		"fcountryaqicode": 620500,
+		"fid": 300,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "武威",
+		"fcitynameShi": "武威市",
+		"fcountryaqicode": 620600,
+		"fid": 301,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "张掖",
+		"fcitynameShi": "张掖市",
+		"fcountryaqicode": 620700,
+		"fid": 302,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "平凉",
+		"fcitynameShi": "平凉市",
+		"fcountryaqicode": 620800,
+		"fid": 303,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "酒泉",
+		"fcitynameShi": "酒泉市",
+		"fcountryaqicode": 620900,
+		"fid": 304,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "庆阳",
+		"fcitynameShi": "庆阳市",
+		"fcountryaqicode": 621000,
+		"fid": 305,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "定西",
+		"fcitynameShi": "定西市",
+		"fcountryaqicode": 621100,
+		"fid": 306,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "陇南",
+		"fcitynameShi": "陇南市",
+		"fcountryaqicode": 621200,
+		"fid": 307,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "临夏",
+		"fcitynameShi": "临夏州",
+		"fcountryaqicode": 622900,
+		"fid": 308,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "合作",
+		"fcitynameShi": "甘南州",
+		"fcountryaqicode": 623000,
+		"fid": 309,
+		"fprovince": "甘肃"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "西宁",
+		"fcitynameShi": "西宁市",
+		"fcountryaqicode": 630100,
+		"fid": 310,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "海东",
+		"fcitynameShi": "海东地区",
+		"fcountryaqicode": 632100,
+		"fid": 311,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "海北",
+		"fcitynameShi": "海北州",
+		"fcountryaqicode": 632200,
+		"fid": 312,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "黄南",
+		"fcitynameShi": "黄南州",
+		"fcountryaqicode": 632300,
+		"fid": 313,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "海南",
+		"fcitynameShi": "海南州",
+		"fcountryaqicode": 632500,
+		"fid": 314,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "果洛藏族自治州",
+		"fcitynameShi": "果洛州",
+		"fcountryaqicode": 632600,
+		"fid": 315,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "玉树藏族自治州",
+		"fcitynameShi": "玉树州",
+		"fcountryaqicode": 632700,
+		"fid": 316,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "海西",
+		"fcitynameShi": "海西州",
+		"fcountryaqicode": 632800,
+		"fid": 317,
+		"fprovince": "青海"
+	},
+	{
+		"farea": "",
+		"fareaQun": "甘宁城市群",
+		"fcityname": "银川",
+		"fcitynameShi": "银川市",
+		"fcountryaqicode": 640100,
+		"fid": 318,
+		"fprovince": "宁夏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "石嘴山",
+		"fcitynameShi": "石嘴山市",
+		"fcountryaqicode": 640200,
+		"fid": 319,
+		"fprovince": "宁夏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "吴忠",
+		"fcitynameShi": "吴忠市",
+		"fcountryaqicode": 640300,
+		"fid": 320,
+		"fprovince": "宁夏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "固原",
+		"fcitynameShi": "固原市",
+		"fcountryaqicode": 640400,
+		"fid": 321,
+		"fprovince": "宁夏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "中卫",
+		"fcitynameShi": "中卫市",
+		"fcountryaqicode": 640500,
+		"fid": 322,
+		"fprovince": "宁夏"
+	},
+	{
+		"farea": "",
+		"fareaQun": "乌鲁木齐城市群",
+		"fcityname": "乌鲁木齐",
+		"fcitynameShi": "乌鲁木齐市",
+		"fcountryaqicode": 650100,
+		"fid": 323,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "克拉玛依",
+		"fcitynameShi": "克拉玛依市",
+		"fcountryaqicode": 650200,
+		"fid": 324,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "吐鲁番",
+		"fcitynameShi": "吐鲁番地区",
+		"fcountryaqicode": 652100,
+		"fid": 325,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "哈密地区",
+		"fcitynameShi": "哈密市",
+		"fcountryaqicode": 652200,
+		"fid": 326,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "乌鲁木齐城市群",
+		"fcityname": "昌吉回族州",
+		"fcitynameShi": "昌吉州",
+		"fcountryaqicode": 652300,
+		"fid": 327,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "博尔塔拉蒙古州",
+		"fcitynameShi": "博州",
+		"fcountryaqicode": 652700,
+		"fid": 328,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "库尔勒",
+		"fcitynameShi": "库尔勒市",
+		"fcountryaqicode": 652800,
+		"fid": 329,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阿克苏地区",
+		"fcitynameShi": "阿克苏地区",
+		"fcountryaqicode": 652900,
+		"fid": 330,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "克孜勒苏柯尔克孜州",
+		"fcitynameShi": "克州",
+		"fcountryaqicode": 653000,
+		"fid": 331,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "喀什地区",
+		"fcitynameShi": "喀什地区",
+		"fcountryaqicode": 653100,
+		"fid": 332,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "和田地区",
+		"fcitynameShi": "和田地区",
+		"fcountryaqicode": 653200,
+		"fid": 333,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "伊犁哈萨克州",
+		"fcitynameShi": "伊犁州",
+		"fcountryaqicode": 654000,
+		"fid": 334,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "塔城地区",
+		"fcitynameShi": "塔城地区",
+		"fcountryaqicode": 654200,
+		"fid": 335,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "阿勒泰地区",
+		"fcitynameShi": "阿勒泰地区",
+		"fcountryaqicode": 654300,
+		"fid": 336,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "石河子",
+		"fcitynameShi": "石河子市",
+		"fcountryaqicode": 659001,
+		"fid": 337,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "乌鲁木齐城市群",
+		"fcityname": "五家渠",
+		"fcitynameShi": "五家渠市",
+		"fcountryaqicode": 659004,
+		"fid": 338,
+		"fprovince": "新疆"
+	},
+	{
+		"farea": "",
+		"fareaQun": "",
+		"fcityname": "瓦房店",
+		"fcitynameShi": "瓦房店市",
+		"fcountryaqicode": 210281,
+		"fid": 339,
+		"fprovince": "辽宁"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "江阴",
+		"fcitynameShi": "江阴市",
+		"fcountryaqicode": 320281,
+		"fid": 340,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "宜兴",
+		"fcitynameShi": "宜兴市",
+		"fcountryaqicode": 320282,
+		"fid": 341,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "溧阳",
+		"fcitynameShi": "溧阳市",
+		"fcountryaqicode": 320481,
+		"fid": 342,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "金坛",
+		"fcitynameShi": "金坛市",
+		"fcountryaqicode": 320482,
+		"fid": 343,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "常熟",
+		"fcitynameShi": "常熟市",
+		"fcountryaqicode": 320581,
+		"fid": 344,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "张家港",
+		"fcitynameShi": "张家港市",
+		"fcountryaqicode": 320582,
+		"fid": 345,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "昆山",
+		"fcitynameShi": "昆山市",
+		"fcountryaqicode": 320583,
+		"fid": 346,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "吴江",
+		"fcitynameShi": "吴江市",
+		"fcountryaqicode": 320584,
+		"fid": 347,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "太仓",
+		"fcitynameShi": "太仓市",
+		"fcountryaqicode": 320585,
+		"fid": 348,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "海门",
+		"fcitynameShi": "海门市",
+		"fcountryaqicode": 320684,
+		"fid": 349,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "句容",
+		"fcitynameShi": "句容市",
+		"fcountryaqicode": 321183,
+		"fid": 350,
+		"fprovince": "江苏"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "富阳",
+		"fcitynameShi": "富阳市",
+		"fcountryaqicode": 330183,
+		"fid": 351,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "临安",
+		"fcitynameShi": "临安市",
+		"fcountryaqicode": 330185,
+		"fid": 352,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "诸暨",
+		"fcitynameShi": "诸暨市",
+		"fcountryaqicode": 330681,
+		"fid": 353,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "长三角",
+		"fareaQun": "长三角",
+		"fcityname": "义乌",
+		"fcitynameShi": "义乌市",
+		"fcountryaqicode": 330782,
+		"fid": 354,
+		"fprovince": "浙江"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "章丘",
+		"fcitynameShi": "章丘市",
+		"fcountryaqicode": 370181,
+		"fid": 355,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "胶州",
+		"fcitynameShi": "胶州市",
+		"fcountryaqicode": 370281,
+		"fid": 356,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "即墨",
+		"fcitynameShi": "即墨市",
+		"fcountryaqicode": 370282,
+		"fid": 357,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "平度",
+		"fcitynameShi": "平度市",
+		"fcountryaqicode": 370283,
+		"fid": 358,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "胶南",
+		"fcitynameShi": "胶南市",
+		"fcountryaqicode": 370284,
+		"fid": 359,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "莱西",
+		"fcitynameShi": "莱西市",
+		"fcountryaqicode": 370285,
+		"fid": 360,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "莱州",
+		"fcitynameShi": "莱州市",
+		"fcountryaqicode": 370683,
+		"fid": 361,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "蓬莱",
+		"fcitynameShi": "蓬莱市",
+		"fcountryaqicode": 370684,
+		"fid": 362,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "招远",
+		"fcitynameShi": "招远市",
+		"fcountryaqicode": 370685,
+		"fid": 363,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "寿光",
+		"fcitynameShi": "寿光市",
+		"fcountryaqicode": 370783,
+		"fid": 364,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "文登",
+		"fcitynameShi": "文登市",
+		"fcountryaqicode": 371081,
+		"fid": 365,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "荣成",
+		"fcitynameShi": "荣成市",
+		"fcountryaqicode": 371082,
+		"fid": 366,
+		"fprovince": "山东"
+	},
+	{
+		"farea": "京津冀周边",
+		"fareaQun": "山东城市群",
+		"fcityname": "乳山",
+		"fcitynameShi": "乳山市",
+		"fcountryaqicode": 371083,
+		"fid": 367,
+		"fprovince": "山东"
+	}
+]
